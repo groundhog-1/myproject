@@ -23,7 +23,7 @@
         <shiro.version>1.2.3</shiro.version>
         <oracle.version>11.2.0.3</oracle.version>
         <mybatis.version>3.4.5</mybatis.version>
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
     </properties>
 
     <!-- 锁定jar包版本 -->
