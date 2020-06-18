@@ -1,0 +1,101 @@
+#content{
+    margin-top: 0 auto;
+    height: 75%;
+    /*border: 2px solid #dddddd;*/
+}
+
+/*用户修改*/
+#order_hall{
+    margin: 20px 30px;
+    /*border: 2px solid #eeeeee;*/
+    height: 100%;
+    padding: 5px;
+}
+#r_drawer{
+    border: 1px solid #eeeeee;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+#l_orders{
+    border: 1px solid #eeeeee;
+    height: 100%;
+    width: 80%;
+    float: left;
+    /*background-image: url(images/bg.jpg);*/
+    background-size: 100% 100%;
+}
+
+
+
+
+#modify_user{
+    margin: 20px auto;
+    width: 450px;
+    height: 600px;
+    border: 2px solid #dddaaa;
+}
+
+.tab tr{
+    font-weight: bold;
+    border-bottom: 1px solid #dddddd;
+    height: 38px;
+}
+
+
+.btn_modify1{
+    margin: 5px auto;
+    height: 40px;
+    width: 80px;
+
+}
+.btn_modify2{
+    margin: 5px auto;
+    height: 40px;
+    width: 160px;
+    display: none;
+}
+/*用户修改*/
+.nav {
+    padding-left: 0;
+    margin-top: 8px;
+
+}
+
+/*我的订单*/
+
+#my_orders{
+    margin: 20px 30px;
+    border: 2px solid #eeeeee;
+    height: 95%;
+    padding: 5px;
+}
+
+.table {
+    width: 95%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    margin: 20px auto;
+}
+
+/*我的订单*/
+
+/*订单发布*/
+#user_release{
+    margin: 20px 30px;
+    border: 2px solid #eeeeee;
+    height: 95%;
+    padding: 5px;
+
+}
+
+#query_release{
+    margin: 20px 30px;
+    border: 2px solid #eeeeee;
+    height: 95%;
+    padding: 5px;
+    display: none;
+}
+
+/*订单发布*/

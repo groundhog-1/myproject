@@ -1,0 +1,106 @@
+#parent{
+    margin: 50px 10%;
+    height: 1000px;
+    border: 1px solid #eeeeee;
+}
+
+#header{
+    margin: 0 auto;
+    height: 60px;
+    border: 1px solid #eeeeee;
+}
+
+#text{
+    float: left;
+    height: 100%;
+    width: 55%;
+    /*border: 2px solid #aaaaaa;*/
+}
+
+#nava{
+    float: left;
+    height: 100%;
+    width: 30%;
+    /*border: 2px solid #bbbbbb;*/
+}
+
+#msg{
+    float: left;
+    height: 100%;
+    width: 15%;
+    /*border: 2px solid #cccccc;*/
+}
+
+.nav {
+    padding-left: 0;
+    margin-top: 8px;
+
+}
+
+body{
+    background-image: url(../images/body.png);
+    background-size: 100% 100%;
+}
+
+#content{
+    margin-top: 0 auto;
+    height: 75%;
+    /*border: 2px solid #dddddd;*/
+}
+
+#order_hall{
+    margin: 20px 30px;
+    /*border: 2px solid #eeeeee;*/
+    height: 100%;
+    padding: 5px;
+}
+#r_drawer{
+    border: 1px solid #eeeeee;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+#l_orders{
+    border: 1px solid #eeeeee;
+    height: 100%;
+    width: 80%;
+    float: left;
+    /*background-image: url(images/bg.jpg);*/
+    background-size: 100% 100%;
+}
+.vintage1{
+    background: #EEE url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAHklEQVQImWNkYGBgYGD4//8/A5wF5SBYyAr+//8PAPOCFO0Q2zq7AAAAAElFTkSuQmCC) repeat;
+    text-shadow: 5px -5px black, 4px -4px white;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    margin-left: 10px;
+    -webkit-background-clip: text }
+
+.con_text{
+    margin-left: 35px;
+}
+
+.discible{
+    text-align: center;
+
+    width: 200px;
+    margin: 20px 50px;
+
+}
+
+.msg{
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+    /*border: 2px solid #aabbcc;*/
+    display: inline-block;
+}
+.avatar{
+    width: 60px;
+    margin-left: 15px;
+    height: 100%;
+
+    /*border: 2px solid #aabbcc;*/
+    display: inline-block;
+}

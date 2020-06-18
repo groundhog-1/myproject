@@ -1,0 +1,24 @@
+#my_orders{
+    margin: 20px 30px;
+    border: 2px solid #eeeeee;
+    height: 95%;
+    padding: 5px;
+}
+
+#condition{
+    width: 100%;
+    height: auto;
+    /*border: 2px solid #abcdef;*/
+}
+#o_content{
+    width: 100%;
+    height: 80%;
+    /*border: 2px solid #bbbccc;*/
+    padding: 2px;
+}
+.pagination {
+    display: inline-block;
+    padding-left: 40%;
+    margin: 20px auto;
+    border-radius: 4px;
+}
